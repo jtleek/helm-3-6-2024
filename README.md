@@ -1,7 +1,7 @@
 # Science Presentation at HELM 3/6/2024
 
 * Fine Tuned Protein Structure Prediction (Bradley Lab): https://www.pnas.org/doi/abs/10.1073/pnas.2216697120
-* The Seattle Pipeline Cellular and Image Analysis Code (Fong Lab): https://github.com/youyifong/tsp
+* The Seattle Pipeline Cellular and Image Analysis (Fong Lab): https://www.researchsquare.com/article/rs-3307496/v1, https://github.com/youyifong/tsp
 
   
 * AlphaFold Paper: https://www.nature.com/articles/s41586-021-03819-2
